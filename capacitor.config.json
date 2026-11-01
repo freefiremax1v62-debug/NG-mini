@@ -1,0 +1,13 @@
+{
+  "appId": "org.ngchat.aitutor",
+  "appName": "NG Chat",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}

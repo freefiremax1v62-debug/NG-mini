@@ -1,0 +1,11 @@
+{
+  "name": "NG Chat – AI Tutor & Homework Help",
+  "description": "Ask Anything. Learn Everything. Modern AI education tutor with Snap & Solve, step-by-step homework solutions, guided topic lessons, and interactive practice tests.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
